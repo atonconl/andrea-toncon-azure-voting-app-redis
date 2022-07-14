@@ -1,0 +1,1 @@
+# andrea-toncon-azure-voting-app-redis
